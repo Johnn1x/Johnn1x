@@ -1,5 +1,5 @@
 # Hey there! 👋  
-I'm Johnn1x, a coding enthusiast who loves diving into programming.  
+I'm Johnn1x.
 
 ## About Me  
 - I’m passionate about programming, especially using AI to speed things up.  
